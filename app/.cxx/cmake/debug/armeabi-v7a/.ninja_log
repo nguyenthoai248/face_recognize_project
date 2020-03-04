@@ -1,0 +1,24 @@
+# ninja log v5
+1	244	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/libsvm/svm-scale.cpp.o	24258aa8ae4fe264
+0	987	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/libsvm/svm-predict.cpp.o	a4234ca564fa5871
+2	1027	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/libsvm/svm-train.cpp.o	2687b9225145bab1
+0	1078	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/jnilibsvm.cpp.o	b98b2631300675a9
+0	1247	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/common.cpp.o	e67ca2d89067936b
+3	1265	0	jnilibsvm/CMakeFiles/jnilibsvm.dir/libsvm/svm.cpp.o	d7cc3d418342c466
+1265	1405	0	/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilibsvm.so	f7dc33c594f74936
+0	153	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/imageutils_jni.cc.o	562417dddbd808c
+1	684	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/frame_pair.cc.o	98e89cf8174e6a9f
+684	714	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/time_log.cc.o	9c6df772a453a85d
+2	782	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_detector.cc.o	e22beccebf6db8ac
+1	787	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/image_neon.cc.o	f434a774c42f2dac
+1	829	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/keypoint_detector.cc.o	cf3dbc7cef14643b
+829	869	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/rgb2yuv.cc.o	1e3ba3ed393ac6b1
+869	915	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/yuv2rgb.cc.o	92fbc90faa98e9c7
+153	925	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/optical_flow.cc.o	a7983f21541ef4d5
+1	943	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/logging.cc.o	733371a8b509aa4b
+3	1055	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_tracker_jni.cc.o	6059c6e59295556b
+782	1276	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/utils_neon.cc.o	9665ae497b47cccf
+787	1278	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/prewhiten.cc.o	5608287aabce71c2
+714	1326	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/tracked_object.cc.o	89a269ace2abf3ea
+3	1507	0	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_tracker.cc.o	16685a2d7af89d22
+1507	1849	0	/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libtensorflow_demo.so	2ba31da47c5b8b8b

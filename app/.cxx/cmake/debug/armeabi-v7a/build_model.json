@@ -1,0 +1,69 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android",
+      "sdkFolder": "/Users/hieunm/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app",
+      "makeFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/.cxx",
+      "cxxFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx",
+      "ndkFolder": "/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

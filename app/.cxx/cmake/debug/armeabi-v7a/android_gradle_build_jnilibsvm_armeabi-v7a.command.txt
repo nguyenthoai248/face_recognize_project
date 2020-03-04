@@ -1,0 +1,8 @@
+Executable : /Users/hieunm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/debug/armeabi-v7a
+--target
+jnilibsvm
+jvmArgs : 
+

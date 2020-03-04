@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\Workspace\\Android\\face_recognize_project",
+      "sdkFolder": "C:\\Users\\ThoaiNV\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\Workspace\\Android\\face_recognize_project\\app",
+      "makeFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\Workspace\\Android\\face_recognize_project\\.cxx",
+      "cxxFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\ThoaiNV\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "E:\\Workspace\\Android\\face_recognize_project\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\Workspace\\Android\\face_recognize_project\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

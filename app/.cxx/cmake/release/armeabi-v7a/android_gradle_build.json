@@ -1,0 +1,175 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/CMakeLists.txt",
+		"/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/CMakeLists.txt",
+		"/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/hieunm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc", "cpp" ],
+	"libraries" : 
+	{
+		"jnilibsvm-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "jnilibsvm",
+			"buildCommand" : "/Users/hieunm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a --target jnilibsvm",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/common.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/jnilibsvm.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/libsvm/svm-predict.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/libsvm/svm-scale.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/libsvm/svm-train.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-exceptions -frtti -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/jnilibsvm/libsvm/svm.cpp",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/release/obj/armeabi-v7a/libjnilibsvm.so",
+			"toolchain" : "6364265064883046994"
+		},
+		"tensorflow_demo-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "tensorflow_demo",
+			"buildCommand" : "/Users/hieunm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a --target tensorflow_demo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/imageutils_jni.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/frame_pair.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/image_neon.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/keypoint_detector.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/logging.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/object_detector.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/object_tracker.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/object_tracker_jni.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/optical_flow.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/time_log.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/tracked_object.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/object_tracking/utils_neon.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/prewhiten.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/rgb2yuv.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -I/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/src/main/jni/tensorflow_demo/yuv2rgb.cc",
+					"workingDirectory" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/.cxx/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/hieunm/Desktop/Hy_vong/face-recognizer-android/app/build/intermediates/cmake/release/obj/armeabi-v7a/libtensorflow_demo.so",
+			"toolchain" : "6364265064883046994"
+		}
+	},
+	"toolchains" : 
+	{
+		"6364265064883046994" : 
+		{
+			"cCompilerExecutable" : "/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hieunm/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
